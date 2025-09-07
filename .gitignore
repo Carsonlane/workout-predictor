@@ -1,0 +1,13 @@
+# Node / Next.js
+web/.next
+web/node_modules
+web/.env*
+# Python / FastAPI
+api/__pycache__/
+api/.venv/
+api/.env*
+# OS
+.DS_Store
+Thumbs.db
+# Misc
+.env*
